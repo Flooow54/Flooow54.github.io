@@ -2,40 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Florian F.</title>
-    <link>https://flooow54.github.io/MyHugoPortfolio/</link>
+    <link>https://flooow54.github.io/</link>
     <description>Recent content on Florian F.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 01 Jul 2020 21:51:01 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 21:54:59 +0200</lastBuildDate>
     
-	<atom:link href="https://flooow54.github.io/MyHugoPortfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://flooow54.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>A</title>
+      <link>https://flooow54.github.io/projects/a/</link>
+      <pubDate>Wed, 01 Jul 2020 21:54:59 +0200</pubDate>
+      
+      <guid>https://flooow54.github.io/projects/a/</guid>
+      <description>Ceci est un projet :)</description>
+    </item>
+    
+    <item>
       <title>B</title>
-      <link>https://flooow54.github.io/MyHugoPortfolio/posts/b/</link>
+      <link>https://flooow54.github.io/posts/b/</link>
       <pubDate>Wed, 01 Jul 2020 21:51:01 +0200</pubDate>
       
-      <guid>https://flooow54.github.io/MyHugoPortfolio/posts/b/</guid>
+      <guid>https://flooow54.github.io/posts/b/</guid>
       <description>C&amp;rsquo;est trop intéressant! 🤩</description>
     </item>
     
     <item>
       <title>Formation Valoriser Son Image </title>
-      <link>https://flooow54.github.io/MyHugoPortfolio/posts/vsi/</link>
+      <link>https://flooow54.github.io/posts/vsi/</link>
       <pubDate>Wed, 01 Jul 2020 21:51:01 +0200</pubDate>
       
-      <guid>https://flooow54.github.io/MyHugoPortfolio/posts/vsi/</guid>
+      <guid>https://flooow54.github.io/posts/vsi/</guid>
       <description>J&amp;rsquo;ai fait une super formation 📚👨‍🎓
 Découvrez-la aussi : Solerys.fr</description>
     </item>
     
     <item>
       <title>Expérimentations en Deep Learning</title>
-      <link>https://flooow54.github.io/MyHugoPortfolio/projects/deeplearning/</link>
+      <link>https://flooow54.github.io/projects/deeplearning/</link>
       <pubDate>Mon, 22 Jun 2020 19:07:32 +0200</pubDate>
       
-      <guid>https://flooow54.github.io/MyHugoPortfolio/projects/deeplearning/</guid>
+      <guid>https://flooow54.github.io/projects/deeplearning/</guid>
       <description>Afin d&amp;rsquo;apprendre les concepts de base du Deep Learning j&amp;rsquo;ai suivi un cours en ligne sur la plateforme Udemy : Le Deep Learning de A à Z.
 Au fil de ce cours j&amp;rsquo;ai appris à construire différents types de réseaux de neuronnes et je me suis ensuite entrainné en les implémentant dans différents contextes.
 Prédiction du taux d&amp;rsquo;attrition Artificial Neural Network : Modèle de classification

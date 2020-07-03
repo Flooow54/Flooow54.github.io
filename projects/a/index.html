@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Tags</title>
+    <title>A</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -20,7 +20,8 @@
 
 
     
-    <link rel="stylesheet" href="/assets/css/list.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css" />
+<link rel="stylesheet" href="/assets/css/single.css" />
 
 
     
@@ -31,11 +32,11 @@
     <div class="container-fluid bg-dimmed wrapper">
       
       
-    <nav class="navbar navbar-expand-lg top-navbar final-navbar shadow">
+<nav class="navbar navbar-expand-lg top-navbar final-navbar shadow">
     <div class="container">
       <a class="navbar-brand" href="https://flooow54.github.io/">
         <img src="/assets/images/logo.png">Florian F.</a>
-      <button class="navbar-toggler navbar-light" type="button" onclick="toggleSidebar()">
+      <button class="navbar-toggler navbar-light" type="button" >
         <span class="navbar-toggler-icon"></span>
       </button>
 
@@ -60,28 +61,73 @@
 
       
       
-    <div class="sidebar" id="sidebar">
-        <div class="sidebar-tree">
-            <input type="text" name="filtr-search" value="" placeholder="Search" data-search="" id="search-box" />
-            <ul class="tree" id="tree">
-                <li id="list-heading"><a href="#" data-filter="all">Tags</a></li>
-                <div class="subtree">
-                    
+<div class="container p-0 read-area">
+    
+    <div class="hero-area col-sm-12" style='background-image: url(/assets/images/heros/default-hero.jpg);'></div>
 
-                </div>
-            </ul>
+    
+    <div class="page-content">
+        <div class="author-profile ml-auto align-self-lg-center">
+            <img class="rounded-circle" src='/assets/images/avatar.png' />
+            <h5 class="author-name">Florian Formentini</h5>
+            <p>July 1, 2020</p>
         </div>
-    </div>
-    <div class="content container-fluid" id="content">
-        <div class="content-cards">
-            <div class="container-fluid filtr-container post-cards" id="post-cards">
+
+        <div class="title">
+            <h1>A</h1>
+        </div>
+
+        <div class="post-content">
+            <p>Ceci est un projet :)</p>
+
+        </div>
+
+        
+        
+        <div class="btn-improve-page">
+            <a href="https://github.com/Flooow54/MyHugoPortfolio/edit/master/content/projects%5ca.md">
+                <i class="fas fa-code-branch"></i>
+                Improve This Page
+            </a>
+        </div>
+        
+
+        
+        <hr />
+        <div class="row next-prev-navigator">
+            
+            
                 
+            
                 
-            </div>
+            
+                
+            
+                
+                    
+                    
+                        <div class="col-md-12 next-article">
+                            <a href="/projects/deeplearning/" class="btn btn-outline-info">
+                                <span>Suivant <i class="fas fa-chevron-circle-right"></i></span>
+                                <br />
+                                <span>Expérimentations en Deep Learning</span>
+                            </a>
+                        </div>
+                    
+                
             
         </div>
+        <hr />
+        <div class="col text-center">
+            <a href="https://flooow54.github.io/" class="btn btn-outline-info">
+                <span>Accueil <i class="fa fa-home"></i></span>
+            </a>
+        </div>
+        
+        
+        
     </div>
-
+    
     </div>
 
     <footer class="container-fluid text-center align-content-center footer pb-2">
@@ -181,7 +227,12 @@
 
     
     
-    <script src="/assets/js/list.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
+    <script src="/assets/js/single.js"></script>
+    <script>
+        hljs.initHighlightingOnLoad();
+    </script>
+    
 
   </body>
 </html>
