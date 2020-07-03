@@ -6,10 +6,20 @@
     <description>Recent content in Mes Articles on Florian F.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 01 Jul 2020 21:51:01 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 21:51:01 +0200</lastBuildDate>
     
 	<atom:link href="https://flooow54.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Formation Valoriser Son Image </title>
+      <link>https://flooow54.github.io/posts/vsi/</link>
+      <pubDate>Thu, 02 Jul 2020 21:51:01 +0200</pubDate>
+      
+      <guid>https://flooow54.github.io/posts/vsi/</guid>
+      <description>J&amp;rsquo;ai fait une super formation 📚👨‍🎓
+Découvrez-la aussi : Solerys.fr</description>
+    </item>
     
     <item>
       <title>B</title>
@@ -19,16 +29,6 @@
       <guid>https://flooow54.github.io/posts/b/</guid>
       <description>Mon Premier Post !
 C&amp;rsquo;est trop intéressant! 🤩</description>
-    </item>
-    
-    <item>
-      <title>Formation Valoriser Son Image </title>
-      <link>https://flooow54.github.io/posts/vsi/</link>
-      <pubDate>Wed, 01 Jul 2020 21:51:01 +0200</pubDate>
-      
-      <guid>https://flooow54.github.io/posts/vsi/</guid>
-      <description>J&amp;rsquo;ai fait une super formation 📚👨‍🎓
-Découvrez-la aussi : Solerys.fr</description>
     </item>
     
   </channel>
