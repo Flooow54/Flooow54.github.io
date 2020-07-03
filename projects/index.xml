@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mes Projets on Florian F.</title>
+    <link>https://flooow54.github.io/MyHugoPortfolio/projects/</link>
+    <description>Recent content in Mes Projets on Florian F.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 22 Jun 2020 19:07:32 +0200</lastBuildDate>
+    
+	<atom:link href="https://flooow54.github.io/MyHugoPortfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Expérimentations en Deep Learning</title>
+      <link>https://flooow54.github.io/MyHugoPortfolio/projects/deeplearning/</link>
+      <pubDate>Mon, 22 Jun 2020 19:07:32 +0200</pubDate>
+      
+      <guid>https://flooow54.github.io/MyHugoPortfolio/projects/deeplearning/</guid>
+      <description>Afin d&amp;rsquo;apprendre les concepts de base du Deep Learning j&amp;rsquo;ai suivi un cours en ligne sur la plateforme Udemy : Le Deep Learning de A à Z.
+Au fil de ce cours j&amp;rsquo;ai appris à construire différents types de réseaux de neuronnes et je me suis ensuite entrainné en les implémentant dans différents contextes.
+Prédiction du taux d&amp;rsquo;attrition Artificial Neural Network : Modèle de classification
+Etude de cas : Une banque a remarqué que de plus en plus de ses clients partent pour la concurrence.</description>
+    </item>
+    
+  </channel>
+</rss>

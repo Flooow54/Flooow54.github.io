@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mes Articles on Florian F.</title>
+    <link>https://flooow54.github.io/MyHugoPortfolio/posts/</link>
+    <description>Recent content in Mes Articles on Florian F.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 01 Jul 2020 21:51:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://flooow54.github.io/MyHugoPortfolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>B</title>
+      <link>https://flooow54.github.io/MyHugoPortfolio/posts/b/</link>
+      <pubDate>Wed, 01 Jul 2020 21:51:01 +0200</pubDate>
+      
+      <guid>https://flooow54.github.io/MyHugoPortfolio/posts/b/</guid>
+      <description>C&amp;rsquo;est trop intéressant! 🤩</description>
+    </item>
+    
+    <item>
+      <title>Formation Valoriser Son Image </title>
+      <link>https://flooow54.github.io/MyHugoPortfolio/posts/vsi/</link>
+      <pubDate>Wed, 01 Jul 2020 21:51:01 +0200</pubDate>
+      
+      <guid>https://flooow54.github.io/MyHugoPortfolio/posts/vsi/</guid>
+      <description>J&amp;rsquo;ai fait une super formation 📚👨‍🎓
+Découvrez-la aussi : Solerys.fr</description>
+    </item>
+    
+  </channel>
+</rss>
