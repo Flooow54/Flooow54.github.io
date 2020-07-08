@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>404 Page not found</title>
+    <title>Mutualizer Project</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -20,7 +20,8 @@
 
 
     
-    <link rel="stylesheet" href="/assets/css/404.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css" />
+<link rel="stylesheet" href="/assets/css/single.css" />
 
 
     
@@ -31,7 +32,7 @@
     <div class="container-fluid bg-dimmed wrapper">
       
       
-    <nav class="navbar navbar-expand-lg top-navbar final-navbar shadow">
+<nav class="navbar navbar-expand-lg top-navbar final-navbar shadow">
     <div class="container">
       <a class="navbar-brand" href="https://flooow54.github.io/">
         <img src="/assets/images/logo.png">Florian F.</a>
@@ -55,16 +56,79 @@
 
       
       
-<div class="container">
-    <div class="notFound">
-        <img src="/assets/images/404.png" alt="">
-        <div class="message">
-            <h1>404</h1>
-            <h4>Cette page n'existe pas...</h4>
-        </div>
-    </div>
-</div>
+<div class="container p-0 read-area">
+    
+    
+    <div class="hero-area col-sm-12" style="background-image: url('/assets/images/heros/tesseract.jpg');"></div>
 
+    
+    <div class="page-content">
+        <div class="author-profile ml-auto align-self-lg-center">
+            <img class="rounded-circle" src='/assets/images/avatar.png' />
+            <h5 class="author-name">Florian Formentini</h5>
+            <p>January 1, 2019</p>
+        </div>
+
+        <div class="title">
+            <h1>Mutualizer Project</h1>
+        </div>
+
+        <div class="post-content">
+            <p>Ce projet a été réalisé dans le cadre d&rsquo;un cours C# au CESI Alternance enéquipes de 5 personnes : 1 chef de projet et 4 développeurs.</p>
+<p><strong><ins>Etude de cas :</ins></strong> L’association inter-AMC (pour Assurance Maladie Complémentaire) souhaite une solution pour simplifier la mise en œuvre du tiers payant pour les prestataires de soins dans l’intérêt des assurés et de l&rsquo;ensemble des acteurs concernés par la dispense d’avance de frais. Constatant que la présentation des attestations devait être harmonisée entre les complémentaires, les fédérations de complémentaires se sont organisées pour proposer un cahier des charges permettant d’assurer un niveau minimum d’harmonisation des attestations et de permettre au prestataire de soins d’acquérir sans saisie les éléments ainsi définis.</p>
+<p>Ce projet consistait donc en la récupération des données trouvables sur une carte de mutuelle sans que le prestataire de soins n&rsquo;ai à les saisir manuellement. Pour cela, nous devions concevoir une solution permettant de lire le <strong>Datamatrix</strong> trouvable sur la carte de mutuelle d&rsquo;un assuré car celui-ci contient les données nécessaire pour interroger l’Annuaire AMC, lancer les services en ligne et pour récupérer l’adresse de routage de la DRE.</p>
+<p>Les informations à récupérer sont donc le numéro d&rsquo;AMC, le ou les types de conventions, le critère Secondaire de Routage (CSR) et le numéro d&rsquo;adhérent de l&rsquo;assuré.</p>
+<p><img src="/assets/images/projects/mutualizer.png#center" alt="schema-projet"></p>
+<p>Parler de Tesseract ici</p>
+
+        </div>
+
+        
+        
+        <div class="btn-improve-page">
+            <a href='https://github.com/Flooow54/MyHugoPortfolio/edit/master/content/blog/projects/mutualizer.md'>
+                <i class="fas fa-code-branch"></i>
+                Améliorer cette page
+            </a>
+        </div>
+        
+
+        
+        <hr />
+        <div class="row next-prev-navigator">
+            
+            
+                
+                    
+                        <div class="col-md-6 previous-article">
+                            <a href="/blog/projects/deeplearning/" class="btn btn-outline-info">
+                                <span><i class="fas fa-chevron-circle-left"></i> Précédent</span>
+                                <br />
+                                <span>Expérimentations en Deep Learning</span>
+                            </a>
+                        </div>
+                    
+                    
+                
+            
+                
+            
+                
+            
+                
+            
+        </div>
+        <hr />
+        <div class="col text-center">
+            <a href="https://flooow54.github.io/" class="btn btn-outline-info">
+                <span>Accueil <i class="fa fa-home"></i></span>
+            </a>
+        </div>
+        
+        
+        
+    </div>
+    
     </div>
 
     <footer class="container-fluid text-center align-content-center footer pb-2">
@@ -163,6 +227,13 @@
 
 
     
-     
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
+    <script src="/assets/js/single.js"></script>
+    <script>
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
   </body>
 </html>
