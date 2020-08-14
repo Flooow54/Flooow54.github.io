@@ -23,15 +23,5 @@ Au fil de ce cours j&amp;rsquo;ai appris à construire différents types de rés
 Etude de cas : Une banque a remarqué que de plus en plus de ses clients partent pour la concurrence.</description>
     </item>
     
-    <item>
-      <title>Mutualizer Project</title>
-      <link>https://flooow54.github.io/blog/projects/mutualizer/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://flooow54.github.io/blog/projects/mutualizer/</guid>
-      <description>Ce projet a été réalisé dans le cadre d&amp;rsquo;un cours C# au CESI Alternance enéquipes de 5 personnes : 1 chef de projet et 4 développeurs.
-Etude de cas : L’association inter-AMC (pour Assurance Maladie Complémentaire) souhaite une solution pour simplifier la mise en œuvre du tiers payant pour les prestataires de soins dans l’intérêt des assurés et de l&amp;rsquo;ensemble des acteurs concernés par la dispense d’avance de frais. Constatant que la présentation des attestations devait être harmonisée entre les complémentaires, les fédérations de complémentaires se sont organisées pour proposer un cahier des charges permettant d’assurer un niveau minimum d’harmonisation des attestations et de permettre au prestataire de soins d’acquérir sans saisie les éléments ainsi définis.</description>
-    </item>
-    
   </channel>
 </rss>
